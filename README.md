@@ -32,7 +32,7 @@
 - Check out my [portfolio](https://jimmindungu3.github.io/portfolio/)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/jamesndunguthedev/)
 - Check out my [YouTube Channel](https://youtube.com/@DevsToday) for latest and educative tech content.
-- Follow me on X @jimmindungu3
+- Follow me on X [@jimmindungu3](https://twitter.com/jimmindungu3)
 - Email me at jamesthesuperdev@gmail.com for any inquiries or collaboration opportunities
 - WhatsApp or Call me at +254 717 055 495
 

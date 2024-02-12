@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Your Name], a passionate coder and lifelong learner based in [Your Location]. 
+👋 Hi there! I'm James Ndungu, a passionate coder and lifelong learner based in Nairobi, Kenya. 
 
 💻 Skills & Technologies:
 - Proficient in HTML, CSS, JavaScript, Python
@@ -9,18 +9,14 @@
 🚀 Interests & Projects:
 - Currently diving deep into full-stack web development
 - Enthusiastic about building responsive and user-friendly interfaces
-- Recently contributed to [Project Name] and [Project Name] on GitHub
 
 🤝 Open to Collaborations:
 - Excited to collaborate on innovative projects and contribute to open-source initiatives
 - Always looking to connect with fellow developers and expand my network
 
 📫 Let's Connect:
-- Check out my portfolio at [Portfolio Link]
-- Connect with me on LinkedIn: [LinkedIn Profile]
-- Drop me an email at [Your Email Address] for any inquiries or collaboration opportunities
-
-⚡ Fun Fact:
-- When I'm not coding, you can find me exploring new hiking trails or experimenting with new recipes in the kitchen!
+- Check out my portfolio at [https://jimmindungu3.github.io/portfolio/]
+- Connect with me on LinkedIn: [https://www.linkedin.com/in/jamesndunguthedev/]
+- Drop me an email at [jimmindungu3@gmail.com] for any inquiries or collaboration opportunities
 
 Happy coding! 💻✨

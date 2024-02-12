@@ -18,6 +18,6 @@
 - Check out my [portfolio](https://jimmindungu3.github.io/portfolio/)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/jamesndunguthedev/)
 - Check out my [YouTube Channel](https://youtube.com/@DevsToday) for latest tech video uploads.
-- Drop me an email at jimmindungu3@gmail.com for any inquiries or collaboration opportunities
+- Drop me an email at jamesthesuperdev@gmail.com for any inquiries or collaboration opportunities
 
 Happy coding! 💻✨

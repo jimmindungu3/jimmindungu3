@@ -7,8 +7,6 @@
 - Familiar with version control using Git and GitHub
 - Comfortable working with SQL databases and RESTful APIs
 
-
-
 <img src="images/html.png" alt="HTML" width="50" height="50">&nbsp;
 <img src="images/css-3.png" alt="CSS" width="50" height="50">&nbsp;
 <img src="images/bootstrap.png" alt="Bootstrap" width="50" height="50">&nbsp;
@@ -34,6 +32,7 @@
 - Check out my [portfolio](https://jimmindungu3.github.io/portfolio/)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/jamesndunguthedev/)
 - Check out my [YouTube Channel](https://youtube.com/@DevsToday) for latest and educative tech content.
-- Drop me an email at jamesthesuperdev@gmail.com for any inquiries or collaboration opportunities
+- Send me an email at jamesthesuperdev@gmail.com for any inquiries or collaboration opportunities
 
-## Happy coding! 💻✨
+## 😀 Happy coding! 💻✨
+

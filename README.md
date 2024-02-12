@@ -6,15 +6,15 @@
 - Familiar with version control using Git and GitHub
 - Comfortable working with SQL databases and RESTful APIs
 
-- ![HTML](images/html_logo.png) HTML
-- ![CSS](images/css_logo.png) CSS
-- ![Bootstrap](images/bootstrap_logo.png) Bootstrap
+- ![HTML](images/html.png) HTML
+- ![CSS](images/css-3.png) CSS
+- ![Bootstrap](images/bootstrap.png) Bootstrap
 - ![JavaScript](images/javascript_logo.png) JavaScript
-- ![JavaScript](images/javascript_logo.png) Git
-- ![React](images/react_logo.png) React
-- ![JavaScript](images/javascript_logo.png) Python
-- ![SQL](images/sql_logo.png) SQL
-- ![Flask](images/flask_logo.png) Flask
+- ![JavaScript](images/javascript.png) Git
+- ![React](images/react.png) React
+- ![JavaScript](images/python.jpg) Python
+- ![SQL](images/sql.png) SQL
+- ![Flask](images/flask.png) Flask
 
 ## 🚀 Interests & Projects:
 - Currently diving deep into full-stack web development

@@ -17,8 +17,7 @@
 📫 Let's Connect:
 - Check out my [portfolio](https://jimmindungu3.github.io/portfolio/)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/jamesndunguthedev/)
-- Check out my latest videos on [YouTube Channel](https://youtube.com/@DevsToday)
-
+- Check out my [YouTube Channel](https://youtube.com/@DevsToday) for latest tech video uploads.
 - Drop me an email at jimmindungu3@gmail.com for any inquiries or collaboration opportunities
 
 Happy coding! 💻✨

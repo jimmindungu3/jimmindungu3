@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm James Ndungu, a passionate coder and lifelong learner based in Nairobi, Kenya.
+# 👋 Hi There! I'm James Ndungu, A Passionate Software Developer and Lifelong Learner Based in Nairobi, Kenya.
 
 ## 💻 Skills & Technologies:
 
@@ -32,7 +32,9 @@
 - Check out my [portfolio](https://jimmindungu3.github.io/portfolio/)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/jamesndunguthedev/)
 - Check out my [YouTube Channel](https://youtube.com/@DevsToday) for latest and educative tech content.
-- Send me an email at jamesthesuperdev@gmail.com for any inquiries or collaboration opportunities
+- Follow me on X @jimmindungu3
+- Email me at jamesthesuperdev@gmail.com for any inquiries or collaboration opportunities
+- WhatsApp or Call me at +254 717 055 495
 
 ## 😀 Happy coding! 💻✨
 

@@ -9,9 +9,9 @@
 
 <img src="images/html.png" alt="HTML" width="50" height="50">&nbsp;
 <img src="images/css-3.png" alt="CSS" width="50" height="50">&nbsp;
+<img src="images/git.png" alt="Git" width="50" height="50">&nbsp;
 <img src="images/bootstrap.png" alt="Bootstrap" width="50" height="50">&nbsp;
 <img src="images/javascript.png" alt="JavaScript" width="50" height="50">&nbsp;
-<img src="images/git.png" alt="Git" width="50" height="50">&nbsp;
 <img src="images/react.png" alt="React" width="50" height="50">&nbsp;
 <img src="images/python.png" alt="Python" width="50" height="50">&nbsp;
 <img src="images/sql.png" alt="SQL" width="50" height="50">&nbsp;

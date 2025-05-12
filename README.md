@@ -1,4 +1,4 @@
-# 👨‍💻 James Ndungu | Full Stack Developer
+# 👨‍💻 James Ndung'u | Full Stack Developer
 
 ## 📝 About Me
 Full Stack Developer specializing in the MERN stack. Passionate about building responsive and user-friendly web applications. Always learning and exploring new technologies.
